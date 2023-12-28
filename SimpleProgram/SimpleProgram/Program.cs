@@ -8,7 +8,7 @@ if (!float.TryParse(input, out p))
 float res = 0;
 Console.WriteLine("Type numbers and then '#' to compute result: ");
 input = Console.ReadLine();
-iiii num;
+iiiiiiii num;
 while (input != "#")
 {
     if (!int.TryParse(input, out num))
